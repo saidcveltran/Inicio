@@ -10,8 +10,8 @@
 - **Herramientas y Tecnologías:** Git, Docker, AWS
 
 ### 📈 Proyectos Destacados
-- **Portfolio Web:** Un sitio web personal donde muestro mis proyectos y habilidades. Construido con React y Node.js.
-- **Sistema de Gestión de Tareas:** Aplicación para gestionar tareas diarias. Utiliza Django en el backend y React en el frontend.
+- **Portfolio Web:** private...
+- **Sistema de Gestión de Tareas:** private...
 
 ### 🌱 Actualmente Aprendiendo
 - TypeScript
